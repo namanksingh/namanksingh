@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naman Singh
-- 👀 I’m interested in Python, SQL, VBA, Adv Excel, Tableau, Power BI, Power Query
+- 👀 I’m interested in Machine learning tools, Python, SQL, VBA, Adv Excel, Tableau, Power BI, Power Query
 - 🌱 I’m currently learning Python, SQL
 - 💞️ I’m looking to collaborate on Python, SQL, ADV Excel, Power Query
 - 📫 you can mail me on my mailId singh.naman20@gmail.com
